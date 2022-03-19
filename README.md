@@ -4,10 +4,6 @@ Power Bi dashboard for friends
 ![friends-logo](https://user-images.githubusercontent.com/65599483/146676412-885fd91c-6a2e-499b-b125-283d5ceccc63.jpg)
 
 
-You can access this Power BI Dashboard here :
-
-https://app.powerbi.com/view?r=eyJrIjoiZjE3MmQ3ZDktYjIwOS00ZjE2LWFjOTgtMDhjZWIyNzAwYTI3IiwidCI6ImM3ZjhjM2NlLTM4MjUtNGVjZi05ODdjLTFmODc4NmQwMTlhMiJ9
-
 This is a power bi dashboard created with the help of friends data set.
 This dashboard helps us to analyse the friends data and get insights about the episodes,ratings,director,duration of the show.
 Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons.
